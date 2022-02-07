@@ -20,6 +20,9 @@ cloud service providers in the market.
 ## Features
 
 Below is the sample of the data collected for the project
+
+
+
 <img width="577" alt="Screen Shot 2022-02-07 at 5 38 52 PM" src="https://user-images.githubusercontent.com/60556766/152884348-f37624ad-bc40-48e0-afe1-9ed04d67fc04.png">
 
 
